@@ -3,13 +3,13 @@
 
 - **🖋️ I'm currently working on:**
   - programming for **@FRC2539** 🤖
-  - building a virtual pet task app 🪨
-  - and python 🐍
+  - & building a virtual pet task app 🪨
 
 - **🌱 I'm currently studying:**
   - high school physics 💫
   - app development 📱
   - chinese 🍊
+  - python 🐍
 
 - **💬 Talk to me about:**
   - robotics! :heart: 
