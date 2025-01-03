@@ -1,12 +1,12 @@
 # hi! my name is asa🌻
-### 🎀 person-in-progress + junior @ hershey high school 🎀
+### 🎀 junior @ hershey high school 🎀
 
 - **🖋️ I'm currently working on:**
   - programming for **@FRC2539** 🤖
   - & building a virtual pet task app 🪨
 
 - **🌱 I'm currently studying:**
-  - high school physics 💫
+  - ap physics c 💫
   - app development 📱
   - chinese 🍊
   - python 🐍
